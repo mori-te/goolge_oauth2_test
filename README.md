@@ -34,7 +34,7 @@ $ gem install sinatra-contrib
 
 ## テストWEBアプリ起動
 ```bash
-$ ruby azure_ad_sample.rb
+$ ruby google_oauth2_sample.rb
 ```
 
 ## WEBアプリアクセス
